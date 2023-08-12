@@ -1,0 +1,60 @@
+body{
+    font-family: 'Lobster', cursive;
+font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    font-family: 300;
+}
+.me{
+    color: blue;
+}
+p{
+    color: rgb(124, 135, 142);
+}
+.aboutme{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.Develop{
+    border: 1px solid grey;
+    background-image: url("img/17973908.jpg");
+}
+section{
+    height: 330px;
+    border-radius: 10px;
+    border-color: blue;
+}
+
+.buton{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+.aboutme img{
+    width: 50%;
+}
+.developer{
+    box-shadow: 10px 10px 40px grey;
+    height: 50%;
+}
+#devel{
+    border: 7px solid red;
+    border-image: linear-gradient(180deg, lightSalmon tomato);
+    border-radius: 10px;
+    border-image-slice: 1;
+}
+#develop{
+    border: 7px solid blue;
+    border-image: linear-gradient(180deg, lightSalmon tomato);
+    border-radius: 10px;
+    border-image-slice: 1;
+}
+.borderr{
+    border: 10px solid rgb(29, 10, 10);
+
+}
